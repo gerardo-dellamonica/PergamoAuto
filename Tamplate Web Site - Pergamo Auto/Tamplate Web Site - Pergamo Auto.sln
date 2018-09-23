@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tamplate Web Site - Pergamo Auto", "Tamplate Web Site - Pergamo Auto\Tamplate Web Site - Pergamo Auto.csproj", "{436DCD1C-B0D8-4491-9813-E5BD8F54DB2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{436DCD1C-B0D8-4491-9813-E5BD8F54DB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436DCD1C-B0D8-4491-9813-E5BD8F54DB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436DCD1C-B0D8-4491-9813-E5BD8F54DB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436DCD1C-B0D8-4491-9813-E5BD8F54DB2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF4FE9F9-FAB1-4D46-97BA-2622927E30C5}
+	EndGlobalSection
+EndGlobal
